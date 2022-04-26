@@ -12,7 +12,3 @@ Benutzerhandbuch hitobto SBV
    qa
    anhang-1
    anhang-2
-   
-.. image:: media/image1.png
-
-Autor: Simon Betschmann

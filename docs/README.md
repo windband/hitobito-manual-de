@@ -1,2 +1,1 @@
-# Benutzerhandbuch hitobito SBV v0.0.1
-
+# Benutzerhandbuch hitobito SBV

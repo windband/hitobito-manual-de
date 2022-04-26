@@ -31,4 +31,4 @@ Les données de hitobito ne peuvent être utilisées que dans le cadre des activ
 
 Les serveurs hitobito sont situés en Suisse et sont certifiés ISO et FINMA.
 
-**Remarque** Certaines des fonctions décrites dans ce manuel ne sont accessibles qu'aux personnes disposant d'autorisations spéciales. Ils doivent être marqués d'un![icône de verrouillage](/media/image2.png) icône fournie.
+**Remarque** Certaines des fonctions décrites dans ce manuel ne sont accessibles qu'aux personnes disposant d'autorisations spéciales. Ils doivent être marqués d'un ![icône de verrouillage](/media/image2.png)-icône fournie.

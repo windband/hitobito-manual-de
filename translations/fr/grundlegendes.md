@@ -4,7 +4,7 @@ Début 2019, la Swiss Brass Band Association SBV a présenté hitobito comme nou
 
 ## Qu'est-ce que Hitobito ?
 
-![Aperçu des fonctionnalités de hitobtio](/media/image1.png)
+![Aperçu des fonctionnalités de hitobtio](media/image1.png)
 
 hitobito offre une réelle valeur ajoutée pour les associations et les clubs, d'autant plus que les données du club ne doivent être saisies qu'une seule fois. Mais ce ne sera un réel avantage que si les données ici sont complètes et maintenues.
 
@@ -31,4 +31,4 @@ Les données de hitobito ne peuvent être utilisées que dans le cadre des activ
 
 Les serveurs hitobito sont situés en Suisse et sont certifiés ISO et FINMA.
 
-**Remarque** Certaines des fonctions décrites dans ce manuel ne sont accessibles qu'aux personnes disposant d'autorisations spéciales. Ils doivent être marqués d'un ![icône de verrouillage](/media/image2.png)-icône fournie.
+**Remarque** Certaines des fonctions décrites dans ce manuel ne sont accessibles qu'aux personnes disposant d'autorisations spéciales. Ils doivent être marqués d'un ![icône de verrouillage](media/image2.png)-icône fournie.

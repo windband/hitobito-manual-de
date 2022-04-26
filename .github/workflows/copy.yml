@@ -21,7 +21,7 @@ jobs:
     - name: Copycat
       uses: andstor/copycat-action@v3
       with:
-        personal_token: ${{ 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 }}
+        personal_token: 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
         src_path: /docs/translations/fr/.
         dst_path: /docs/
         dst_owner: windband

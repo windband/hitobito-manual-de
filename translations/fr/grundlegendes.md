@@ -1,6 +1,6 @@
 # Notions de base sur hitobito
 
-Début 2019, l'association suisse des musiques ASM a présenté hitobito comme nouveau logiciel de gestion d'association. L'objectif est de réduire les efforts de maintenance des données, d'éliminer les redondances et de générer des avantages supplémentaires pour les utilisateurs et les associations affiliées.
+Début 2019, l'association suisse des musiques (ASM) a présenté hitobito comme nouveau logiciel de gestion d'association. L'objectif est de réduire les efforts de maintenance des données, d'éliminer les redondances et de générer des avantages supplémentaires pour les utilisateurs et les associations affiliées.
 
 ## Qu'est-ce que Hitobito ?
 

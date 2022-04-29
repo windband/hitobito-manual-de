@@ -52,16 +52,17 @@ gefunden, auf welche der Benutzer auch Zugriff hat.
 
 ## Ansicht Info
 
-In der Ansicht Info sehen Sie -- sofern Sie die Berechtigung dazu haben
--- die Personalien einer Person sowie weitere Angaben wie zum Beispiel
+In der Ansicht Info sehen Sie - sofern Sie die Berechtigung dazu haben
+- die Personalien einer Person sowie weitere Angaben wie zum Beispiel
 die vom System anhand der eingetragenen Rollen berechnete Zahl der
 Aktivjahre. Ausserdem werden die aktiven Rollen angezeigt, wobei die
-Hauptgruppe mit einem ausgefüllten roten Stern markiert ist (vgl.
-`Abbildung_Startseite_Benutzer-Info`).
+Hauptgruppe mit einem ausgefüllten roten Stern markiert ist.
 
-Auf Ihrer eigenen Seite -- und bei anderen Personen, sofern Sie die
-entsprechende Berechtigung haben -- stehen Ihnen folgende Befehle zur
-Verfügung: .. image:: media/image6.png
+Auf Ihrer eigenen Seite - und bei anderen Personen, sofern Sie die
+entsprechende Berechtigung haben - stehen Ihnen folgende Befehle zur
+Verfügung: 
+
+![Seite Benutzer](media/image6.png)
 
   - Bearbeiten  
     Ändern der Angaben zur Person
@@ -188,15 +189,14 @@ Funktionen Administrator, SUISA-Verantwortlicher und Dirigent angezeigt:
 Info](media/image12.png)
 
 Über die Funktion `Weitere Ansichten` können alle Personen ("Gesamte
-Ebene") angezeigt oder ein Filter gesetzt werden (siehe `Veteranenliste
-erstellen <T-veteranenliste-erstellen>`).
+Ebene") angezeigt oder ein Filter gesetzt werden.
 
 **Beispiel**: Ist die Gruppe `Mitglieder` eines eigenen Vereins
 ausgewählt, werden alle Personen dieser Gruppe angezeigt, also die
-Liste aller **Aktivmitglieder**.
+Liste aller Aktivmitglieder.
 
 Bei der Gruppe `Vorstand`, werden alle Personen dieser Gruppe angezeigt,
-also die Liste aller **Vorstandsmitglieder**.
+also die Liste aller Vorstandsmitglieder.
 
 Wird eine oder mehrere Personen markiert (Haken ganz links in der
 Liste), erscheinen weitere Befehle, mit welchen alle markierten Personen
@@ -217,7 +217,7 @@ Auf der Ebene eines Kantonalverbands können sämtliche Anlässe des
 Verbandsgebiets und auf der Ebene Schweizer Blasmusikverband alle
 Anlässe des SBV angezeigt werden.
 
-Menü Musikfeste '''''''''''''''
+## Menü Musikfeste
 
 Dieser Menüpunkt ist nur für Administratoren ersichtlich. Hier können
 sich die Vereine für die ausgeschriebenen Musikfeste anmelden.
@@ -231,7 +231,7 @@ angezeigt. Je nach Konfiguration durch den Administrator können diese
 
 ![image](media/image14.png)
 
-Menü Anfragen '''''''''''''
+## Menü Anfragen
 
 Dieser Menüpunkt ist nur für Administratoren ersichtlich.
 
@@ -241,12 +241,12 @@ Hier sind die unter dem Menüpunkt Info erfassten Notizen zum Verein oder
 zur Gruppe aufgelistet. Man sieht auch die notizen der untergruppen.
 Dieser Menüpunkt ist nur für Administratoren ersichtlich.
 
-Menü Gelöscht '''''''''''''
+## Menü Gelöscht
 
 Unter dem Menüpunkt Gelöscht werden frühere, inzwischen gelöschte
 Untergruppen des Vereins angezeigt.
 
-Menü API-Keys '''''''''''''
+## Menü API-Keys
 
 Dieser Menüpunkt ist nur für Administratoren ersichtlich. Für die
 technische Anbindung an Webseiten oder Apps können hier sog. API-Keys

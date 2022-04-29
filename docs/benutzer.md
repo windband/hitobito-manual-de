@@ -131,18 +131,10 @@ Informationen über Sie geändert hat.
 In der Ansicht "Rechnungen" finden sich alle Rechnungen, welche der
 Person geschickt wurden.
 
-<div class="attention">
-
-<div class="title">
-
-Attention
-
-</div>
-
+:::{note} Hinweis
 Es ist noch unklar, wer die Ansicht "Rechnungen" sehen kann → abklären
 mit hitobito
-
-</div>
+:::
 
 # Modul Gruppen
 
@@ -154,17 +146,9 @@ Gruppentyp stehen zudem weitere Angaben (Beschreibung,
 Korrespondenzsprache, Gründungsjahr etc.) zur Verfügung.
 
 <div class="attention">
-
-<div class="title">
-
-Attention
-
-</div>
-
 Die im Menü "Info" definierte Adresse (explizit angegebene
 Vereinsadresse oder Auswahl einer Kontaktperson) wird zum Beispiel als
 Absender bei E-Mails verwendet.
-
 </div>
 
 ![Abbildung Modul Gruppen → Gruppe Mitglieder → Menüpunkt

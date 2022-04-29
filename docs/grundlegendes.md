@@ -32,3 +32,24 @@ Die Daten in hitobito dürfen nur im Zusammenhang mit Aktivitäten des SBV und d
 Die Server von hitobito stehen in der Schweiz und sind ISO und FINMA zertifiziert.
 
 **Bemerkung** Einige der in diesem Handbuch beschriebenen Funktionen sind nur für Personen mit speziellen Berechtigungen verfügbar. Sie sind zur Kennzeichnung mit einem ![Schloss-Icon](media/image2.png)-Symbol versehen.
+
+
+## Erste Schritte mit hitobito
+
+Jedes Vereinsmitglied kann in hitobito mit der Berechtigung ``Mitglieder → Mitglied`` seine eigenen Daten anschauen selber ändern. Das Mitglied hat die Möglichkeit einfache Abfragen im eigenen Verein bzw. Verband zu tätigen und zum Beispiel jederzeit eine aktuelle Aktivmitgliederliste des eigenen Vereins anzuzeigen, zu exportieren und auszudrucken. Auf die Mitgliederdaten anderer Vereine haben Mitglieder keinen Zugriff.
+
+# Anmelden
+
+![Anmeldung](media/image3.png)
+
+Unter https://www.windband.ch befindet sich (rechts oben in der Navigationsleiste) das Login zu hitobito.
+
+Wenn Sie sich zum ersten Mal anmelden oder wenn Sie das Passwort vergessen haben, klicken Sie auf den Link ``Passwort vergessen?`` unterhalb des Anmelden-Buttons.
+
+![Passwort vergessen](media/image4.png)
+
+Im nächsten Schritt geben Sie Ihre E-Mailadresse ein und klicken Sie auf den Button ``Passwort zurücksetzen``.
+
+Als Benutzername bzw. Haupt-E-Mailadresse wird die **persönliche** E-Mailadresse genutzt, mit der jedes Mitglied in der Datenbank geführt wird.
+
+**Wichtig:** Die Mitglieder sollen mit ihren persönlichen E-Mailadressen in hitobito eingetragen werden. Werden sog. Funktionsadressen (z. B. praesident@xxx.ch) verwendet, müssen diese Adressen später immer wieder geändert werden, wenn das Mitglied in seinem Verein die Funktion wechselt, weil sein Nachfolger die gleiche E-Mailadresse nicht eintragen kann, solange diese noch vom Vorgänger verwendet wird.

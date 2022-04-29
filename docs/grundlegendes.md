@@ -33,8 +33,8 @@ Die Server von hitobito stehen in der Schweiz und sind ISO und FINMA zertifizier
 
     ⚠ Einige der in diesem Handbuch beschriebenen Funktionen sind nur für Personen mit speziellen Berechtigungen verfügbar. Sie sind zur Kennzeichnung mit einem ![Schloss-Icon](media/image2.png)-Symbol versehen.
 
-    [!WARNING]
-    This is a warning
+| ⚠ Einige der in diesem Handbuch beschriebenen Funktionen sind nur für Personen mit speziellen Berechtigungen verfügbar. Sie sind zur Kennzeichnung mit einem ![Schloss-Icon](media/image2.png)-Symbol versehen. |
+| --- |
 
 ## Erste Schritte mit hitobito
 

@@ -32,14 +32,14 @@ Die Daten in hitobito dürfen nur im Zusammenhang mit Aktivitäten des SBV und d
 Die Server von hitobito stehen in der Schweiz und sind ISO und FINMA zertifiziert.
 
 <div class="attention">
-⚠ Einige der in diesem Handbuch beschriebenen Funktionen sind nur für Personen mit speziellen Berechtigungen verfügbar. Sie sind zur Kennzeichnung mit einem ![Schloss-Icon](media/image2.png)-Symbol versehen.
+Einige der in diesem Handbuch beschriebenen Funktionen sind nur für Personen mit speziellen Berechtigungen verfügbar. Sie sind zur Kennzeichnung mit einem ![Schloss-Icon](media/image2.png)-Symbol versehen.
 </div>    
 
 ## Erste Schritte mit hitobito
 
 Jedes Vereinsmitglied kann in hitobito mit der Berechtigung ``Mitglieder → Mitglied`` seine eigenen Daten anschauen selber ändern. Das Mitglied hat die Möglichkeit einfache Abfragen im eigenen Verein bzw. Verband zu tätigen und zum Beispiel jederzeit eine aktuelle Aktivmitgliederliste des eigenen Vereins anzuzeigen, zu exportieren und auszudrucken. Auf die Mitgliederdaten anderer Vereine haben Mitglieder keinen Zugriff.
 
-# Anmelden
+## Anmelden
 
 ![Anmeldung](media/image3.png)
 

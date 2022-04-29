@@ -57,6 +57,11 @@ Um weitere wichtige Schritte gleich zu erledigen, empfiehlt es sich auch
 gleich die Felder **Haupt-E-Mail** und das Datum des **Eintritts**
 auszufüllen.
 
+#### Liste importieren
+
+Damit der Import klappt, muss zwingend die Korrespondenzsprache jedes Benutzers
+definiert werden. Diese ist entweder `de`, `fr`oder `it` (Gross-/Kleinschreibung beachten).
+
 #### Mitglieder bearbeiten
 
 Personen mit den Rollen Adressverwaltung, Präsident oder Administrator

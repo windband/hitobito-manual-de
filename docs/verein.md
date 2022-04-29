@@ -6,12 +6,10 @@ verwalten. Diese sind nur für Personen sichtbar oder zugänglich, welche
 die entsprechenden Gruppenzugehörigkeit und Rollen besitzen.
 
 <div class="attention">
-
 Der **Kurzname** soll zum Beispiel für "Musikgesellschaft Eintracht
 Windisch" nicht "MGE" sein, weil der Verein so nicht mehr
 identifizierbar ist. Besser wäre "MG Eintracht Windisch". Generell: Im
 Kurznamen wird nur die Bezeichnung "Musikgesellschaft" o.ä. gekürzt.
-
 </div>
 
 # Modul Gruppen
@@ -67,7 +65,7 @@ kann die Daten sämtlicher Personen im Verein bzw. der ihm zugeteilten
 Gruppe bearbeiten. Dazu ist die zu bearbeitende Person aufzurufen. In
 der Ansicht "Info" findet sich der Button "Bearbeiten":
 
-![image](media/Übersicht_Person.png)
+![image](media/Uebersicht_Person.png)
 
 ### Rollen bearbeiten
 
@@ -136,19 +134,11 @@ Bei der Erfassung der (Vize-)DirigentInnen ist zu unterscheiden, ob
 diese selber auch Mitglied des entsprechenden Vereins sind oder nicht.
 
 <div class="attention">
-
-<div class="title">
-
-Attention
-
-</div>
-
 Für Mitglieder sind die entsprechenden Jahresbeiträge (SBV, SUISA und
 kantonale Musikverbände) zu entrichten und zählen die Aktivjahre der
 Mitglieder für die Berechnung der Veteranenehrungen. Bei
 Nicht-Mitgliedern entfallen die Jahresbeiträge und entsprechend auch die
 Aktivjahre.
-
 </div>
 
 DirigentInnen ist **in jedem Fall** die Rolle `[Musikgesellschaft XY] →
@@ -169,23 +159,16 @@ Aktivmitglied ist), ist ihm ihm auch die Rolle `Vorstand → Präsident`
 zuzuordnen.
 
 <div class="note">
-
-<div class="title">
-
-Note
-
-</div>
-
 Das Vorgehen ist für das Erfassen von Vizepräsident, Kassier,
 Veteranenchef, Präsident der Musikkommission etc. ist analog zum
 Vereinspräsidenten.
-
 </div>
 
 ### Veteranen verwalten
 
-Überprüfen der Einträge gemäss Musikerpass
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ Damit die Berechnung der
+#### Überprüfen der Einträge gemäss Musikerpass
+
+Damit die Berechnung der
 Aktivjahre eines Musikanten korrekt erfolgen kann, müssen dessen
 aktuellen und bisherigen Mitgliedschaften in den Verbandsvereinen in
 hitobito erfasst sein. Um dies zu überprüfen, rufen Sie das
@@ -214,13 +197,6 @@ werden. Dazu ist die Rolle `[Musikgesellschaft XY] → Administrator` oder
 ![image](media/image28.png)
 
 <div class="note">
-
-<div class="title">
-
-Note
-
-</div>
-
 Ist eine Mitgliedschaft im Zeitpunkt der (Nach-)Erfassung bereits
 beendet, d.h. ist die Person nicht mehr Mitglied in jenem Verein, muss
 der Eintrag zwingend hier gemacht werden. Der Button `Rolle hinzufügen`
@@ -228,17 +204,9 @@ in der Ansicht «Info» kann dazu nicht verwendet werden, da dort kein
 End-Datum angegeben werden kann. Der Button `Rolle hinzufügen` in der
 Ansicht «Info» eignet sich nur für die Zuweisung von Rollen, welche die
 Person aktuell ausübt.
-
 </div>
 
 <div class="note">
-
-<div class="title">
-
-Note
-
-</div>
-
 Für die Berechnung der **Aktivjahre** zählt nur die Rolle `Mitglieder →
 Mitglied`. Die Rollen `Mitglieder → Ehrenmitglied`, `Mitglieder →
 Adressverwaltung` und `Mitglieder → Passivmitglied` generieren keine
@@ -249,7 +217,6 @@ ist diese Rolle deshalb zusätzlich zu vergeben (und nicht die Rolle
 `Mitglieder → Mitglied` durch die Rolle `Mitglieder → Ehrenmitglied`
 abzulösen), damit das Mitglied weiterhin Akivjahre sammelt und für
 dieses die Mitgliederbeiträge in Rechnung gestellt werden.
-
 </div>
 
 Sind nun alle Engagements des Mitglieds vollständig erfasst, können
@@ -258,16 +225,14 @@ eidgenössischen Ehrungen massgebend sind, auf der Personen-Übersicht
 abgelesen werden. Diese Angabe erscheint übrigens auch auf den
 Mitgliederlisten des Vereins (online sowie in den exportierten Listen).
 
-<div id="T-veteranenliste-erstellen">
+#### Veteranenliste erstellen 
 
-Veteranenliste erstellen ^^^^^^^^^^^^^^^^^^^^^^^ Will ein Verein wissen,
-welche seiner Mitglieder im aktuellen Jahr zum kantonalen Veteranen
+Will ein Verein wissen, welche seiner Mitglieder im aktuellen Jahr zum kantonalen Veteranen
 ernannt werden können (25 Aktivjahre), kann seine Mitgliederliste
 entsprechend gefiltert werden. Dazu muss der Verein aufgerufen und das
 Menü «Personen» geöffnet werden. Unter «Weitere Ansichten» kann ein
 neuer Filter erstellt werden: Aktivjahre aktuell ist genau 25
 
-</div>
 
 ![image](media/image29.png)
 
@@ -287,18 +252,10 @@ Ein Administrator und der Präsident können Anlässe für den Verein
 erstellen. Ein Adressverwalter darf dies für "seine" Gruppe.
 
 <div class="tip">
-
-<div class="title">
-
-Tip
-
-</div>
-
 Hinweise für das Erstellen von Anlässen
 ![iconSchloss](media/image2.png): Vorggegebene Antworten mit Kommas
 trennen, damit der Benutzer eine Auswahl treffen kann (z.B.
 "T-Shirtgrösse: s,m,l,xl")
-
 </div>
 
 ![image](media/image32.jpg)
@@ -363,24 +320,17 @@ und nach Aufführung geordnet:
 ![image](media/image38.png)
 
 <div class="note">
-
-<div class="title">
-
-Note
-
-</div>
-
 Die Rolle Administrator wird in hitobito nicht gleichgesetzt mit dem
 Zugriff auf alle Funktionen. Auch Administratoren sehen gewissen
 Funktionen in hitobito nicht, wie zum Beispiel den Menüpunkt «SUISA».
 Administratoren, welche ihre SUISA-Verantwortliche unterstützen möchten,
 müssen sich deshalb auch selber die Rolle «Verantwortlicher SUISA»
 erteilen.
-
 </div>
 
-Status Meldeliste ^^^^^^^^^^^^^^^^ Auf dieser Seite ist auch
-ersichtlich, ob die SUISA-Liste bereits eingereicht wurde oder noch
+#### Status Meldeliste
+
+Auf dieser Seite ist auch ersichtlich, ob die SUISA-Liste bereits eingereicht wurde oder noch
 eingereicht werden muss. Der Button kann folgende Zustände haben:
 
 ![image](media/image39.png)
@@ -397,8 +347,9 @@ Die Meldeliste ist ausgefüllt, wurde aber noch nicht eingereicht.
 Die Meldeliste ist leer und kann nicht eingereicht werden. Bitte
 erfassen Sie zuerste Ihre Werke.
 
-Neue Aufführung erfassen ^^^^^^^^^^^^^^^^^^^^^^^ Um eine neue Aufführung
-zu erfassen, klicken Sie auf den Button «Aufführung hinzufügen». Im im
+#### Neue Aufführung erfassen
+
+Um eine neue Aufführung zu erfassen, klicken Sie auf den Button «Aufführung hinzufügen». Im im
 Dialog «SUISA Erfassung» erscheinen die von Ihnen aufgeführten Werke des
 letzten Jahres in einer Liste sowie ein Suchfeld «Werk suchen...».
 
@@ -481,7 +432,6 @@ Funktionalitäten:
     bestimmt verbindlich, wer Abonnent ist.
 
 <div class="attention">
-
 Mit Listen lassen sich einfach **Mailinglisten** erstellen. Die
 Abonenten verwalten ihre E-Mailadressen selber, womit Nachrichten an die
 Liste jederzeit zugestellt werden können – Sie müssen keine
@@ -489,7 +439,6 @@ E-Mailadressen mehr nachführen. Wurde die Liste aufgrund eines Filters
 (z.B. alle Vereinspräsidenten) erstellt, werden Nachrichten an die Liste
 immer die im Zeitpunkt der Nachricht aktuellen Vereinspräsidenten
 erreichen – ein Nachführen von manuellen Listen entfällt.
-
 </div>
 
 ### Liste erstellen
@@ -548,18 +497,10 @@ d.h. Rechnungen, welche an externe Empfänger geschickt werden, welche
 nicht in hitobito erfasst sind.
 
 <div class="tip">
-
-<div class="title">
-
-Tip
-
-</div>
-
 Rechnungen an Empfänger innerhalb von hitobito werden von
 Personenlisten, von einer Teilnehmerliste (Kurse oder Anlässe) oder von
 einer Einzelperson aus erstellt und können nicht im Modul Rechnungen
-erstellt werden (vgl. `Rechnung erstellen <T-rechnung-erstellen>`).
-
+erstellt werden (vgl. `Rechnung erstellen`).
 </div>
 
 ### Rechnungsartikel

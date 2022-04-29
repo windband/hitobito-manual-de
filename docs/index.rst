@@ -2,25 +2,25 @@ Benutzerhandbuch hitobto SBV
 ------------
 
 .. toctree::
-   :maxdepth: 16
+   :maxdepth: 4
 
    grundlegendes
    
 .. toctree::
-   :maxdepth: 16
+   :maxdepth: 4
    :caption: Benutzer
    
    benutzer
 
 .. toctree::
-   :maxdepth: 16
+   :maxdepth: 4
    :caption: Vereine/Verbände
    
    verein
    verband
    
 .. toctree::
-   :maxdepth: 16
+   :maxdepth: 4
    :caption: Anhänge
    
    qa

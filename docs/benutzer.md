@@ -131,10 +131,12 @@ Informationen über Sie geändert hat.
 In der Ansicht "Rechnungen" finden sich alle Rechnungen, welche der
 Person geschickt wurden.
 
-:::{note} Hinweis
+```{admonition} Hinweis
+:class: warning
+
 Es ist noch unklar, wer die Ansicht "Rechnungen" sehen kann → abklären
 mit hitobito
-:::
+```
 
 # Modul Gruppen
 

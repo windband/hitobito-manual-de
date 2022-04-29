@@ -1,5 +1,4 @@
-Verein administrieren ![iconSchloss](media/image2.png)
-=====================
+# Verein administrieren ![iconSchloss](media/image2.png)
 
 In diesem Kapitel werden Spezialfunktionen erläutert, um Vereine zu
 verwalten. Diese sind nur für Personen sichtbar oder zugänglich, welche
@@ -12,11 +11,11 @@ identifizierbar ist. Besser wäre "MG Eintracht Windisch". Generell: Im
 Kurznamen wird nur die Bezeichnung "Musikgesellschaft" o.ä. gekürzt.
 </div>
 
-# Modul Gruppen
+## Modul Gruppen
 
-## Menü Personen
+### Menü Personen
 
-### Neues Mitglied erfassen
+#### Neues Mitglied erfassen
 
 ![image](media/image19.png)
 
@@ -58,7 +57,7 @@ Um weitere wichtige Schritte gleich zu erledigen, empfiehlt es sich auch
 gleich die Felder **Haupt-E-Mail** und das Datum des **Eintritts**
 auszufüllen.
 
-### Mitglieder bearbeiten
+#### Mitglieder bearbeiten
 
 Personen mit den Rollen Adressverwaltung, Präsident oder Administrator
 kann die Daten sämtlicher Personen im Verein bzw. der ihm zugeteilten
@@ -67,7 +66,7 @@ der Ansicht "Info" findet sich der Button "Bearbeiten":
 
 ![image](media/Uebersicht_Person.png)
 
-### Rollen bearbeiten
+#### Rollen bearbeiten
 
 Um einem Mitglied eine neue **aktive** Rolle in einem Verein/Verband
 hinzuzufügen, in welchem das Mitglied bereits eine Rolle besitzt, wählen
@@ -84,7 +83,7 @@ Um aktive Rollen zu entfernen, wählen Sie auf der Ansicht "Info" im
 Abschnitt "Aktive Rollen" das Symbol 'Abfalleimer'. Sie beenden damit
 die entsprechende Rolle per sofort.
 
-### Tags
+#### Tags
 
 Um Mitgliedern eine bestimmte Kennzeichnung zu geben, können sog. Tags
 verwendet werden, wobei dies strukturiert (z.B. "Mailing: Newsletter",
@@ -116,7 +115,7 @@ erstellten Tags)
 Hinzufügen neuer strukturierter Tags (Trennung der beiden Begriffe durch
 einen Doppelpunkt)
 
-### Funktionäre (Präsident, Dirigent etc.) erfassen
+#### Funktionäre (Präsident, Dirigent etc.) erfassen
 
 Es ist wichtig, dass die Vereinsfunktionäre als solche im System erfasst
 bzw. gekennzeichnet sind. So stellen Sie sicher, dass Ihre Funktionäre
@@ -128,7 +127,7 @@ Dirigentenkonferenzen gehen nur an die Dirigenten; Informationen im
 Zusammenhang z.B. mit COVID-19 wie Hinweise zu
 Kurzarbeitsentschädigungen betreffend die PräsidenInnen der Verein etc.
 
-#### Dirigent erfassen
+##### Dirigent erfassen
 
 Bei der Erfassung der (Vize-)DirigentInnen ist zu unterscheiden, ob
 diese selber auch Mitglied des entsprechenden Vereins sind oder nicht.
@@ -152,7 +151,7 @@ Mitglieder) zuzuweisen:
 
 ![image](media/image26.png)
 
-#### Präsident erfassen
+##### Präsident erfassen
 
 Neben der Rolle `Mitglieder → Mitglied` (falls der Präsident auch selber
 Aktivmitglied ist), ist ihm ihm auch die Rolle `Vorstand → Präsident`
@@ -164,9 +163,9 @@ Veteranenchef, Präsident der Musikkommission etc. ist analog zum
 Vereinspräsidenten.
 </div>
 
-### Veteranen verwalten
+#### Veteranen verwalten
 
-#### Überprüfen der Einträge gemäss Musikerpass
+##### Überprüfen der Einträge gemäss Musikerpass
 
 Damit die Berechnung der
 Aktivjahre eines Musikanten korrekt erfolgen kann, müssen dessen
@@ -225,7 +224,7 @@ eidgenössischen Ehrungen massgebend sind, auf der Personen-Übersicht
 abgelesen werden. Diese Angabe erscheint übrigens auch auf den
 Mitgliederlisten des Vereins (online sowie in den exportierten Listen).
 
-#### Veteranenliste erstellen 
+##### Veteranenliste erstellen 
 
 Will ein Verein wissen, welche seiner Mitglieder im aktuellen Jahr zum kantonalen Veteranen
 ernannt werden können (25 Aktivjahre), kann seine Mitgliederliste
@@ -242,9 +241,9 @@ Die mittels eines solchen Filters erstellte Liste kann nun entweder
 ausgedruckt (PDF) oder heruntergeladen und elektronisch
 weiterverarbeitet werden (CSV, Excel, vCard, Etiketten,...).
 
-## Menü Anlässe
+### Menü Anlässe
 
-### Anlass erstellen
+#### Anlass erstellen
 
 ![image](media/image31.jpg)
 
@@ -299,9 +298,9 @@ exportiert werden.
 
 Darstellung der Anlässe mit und ohne Anmeldemöglichkeit
 
-## Menü SUISA
+### Menü SUISA
 
-### SUISA-Meldung
+#### SUISA-Meldung
 
 Jeweils per 31. Dezember jeden Jahres müssen die Vereine der SUISA
 melden, welche Werke im vergangenen Jahr aufgeführt wurden. Damit wird
@@ -309,7 +308,7 @@ der SUISA ermöglicht, den jeweiligen Künstlerinnen und Künstlern einen
 Betrag entsprechend der Häufigkeit der Aufführung ihrer Werke
 auszubezahlen.
 
-#### Gespeicherte Aufführungen anschauen
+##### Gespeicherte Aufführungen anschauen
 
 Personen mit der Rolle «Verantwortlicher SUISA» können im Modul Gruppen
 unter dem Menüpunkt «SUISA» die bisher für ihren Verein gespeicherten
@@ -328,7 +327,7 @@ müssen sich deshalb auch selber die Rolle «Verantwortlicher SUISA»
 erteilen.
 </div>
 
-#### Status Meldeliste
+##### Status Meldeliste
 
 Auf dieser Seite ist auch ersichtlich, ob die SUISA-Liste bereits eingereicht wurde oder noch
 eingereicht werden muss. Der Button kann folgende Zustände haben:
@@ -347,7 +346,7 @@ Die Meldeliste ist ausgefüllt, wurde aber noch nicht eingereicht.
 Die Meldeliste ist leer und kann nicht eingereicht werden. Bitte
 erfassen Sie zuerste Ihre Werke.
 
-#### Neue Aufführung erfassen
+##### Neue Aufführung erfassen
 
 Um eine neue Aufführung zu erfassen, klicken Sie auf den Button «Aufführung hinzufügen». Im im
 Dialog «SUISA Erfassung» erscheinen die von Ihnen aufgeführten Werke des
@@ -369,7 +368,7 @@ Solange die Meldeliste noch nicht eingereicht ist (vgl. `Meldeliste
 einreichen <T-meldeliste-einreichen>`) können Sie beliebig oft neue
 Aufführungen erfassen und bearbeiten.
 
-#### Neues Werk erstellen
+##### Neues Werk erstellen
 
 Ist ein Werk noch gar nicht in der Datenbank von SUISA erfasst, findet
 sich kein Suchergebnis. Es erscheint stattdessen der Befehl «Werk
@@ -382,7 +381,7 @@ eingetragen werden. Die Angabe von Arrangeur und Verlag sind optional:
 
 ![image](media/image45.png)
 
-#### Meldeliste einreichen
+##### Meldeliste einreichen
 
 Sind alle Werke erfasst, muss die Meldeliste eingereicht werden. Dazu
 klicken Sie auf den Button «Meldeliste einreichen». Als Bestätigung
@@ -391,7 +390,7 @@ deaktiviert und umbenannt in «Meldeliste eingereicht»:
 
 ![image](media/image46.png)
 
-#### Meldeliste einreichen ohne Werk erfassen
+##### Meldeliste einreichen ohne Werk erfassen
 
 Vereine können Ihre Meldeliste auch einreichen, ohne ein Werk zu
 erfassen. Dazu stehen folgende alternative Optionen zur Verfügung:
@@ -415,7 +414,7 @@ erfassen. Dazu stehen folgende alternative Optionen zur Verfügung:
 
 ![image](media/suisa_alternative_erledigung.png)
 
-## Menü Listen
+### Menü Listen
 
 Hier werden alle Listen angezeigt, welche die zur Zeit gewählte Gruppe
 erstellt hat. Listen sind gefilterte Personenlisten mit besonderen
@@ -441,7 +440,7 @@ immer die im Zeitpunkt der Nachricht aktuellen Vereinspräsidenten
 erreichen – ein Nachführen von manuellen Listen entfällt.
 </div>
 
-### Liste erstellen
+#### Liste erstellen
 
 ![image](media/Liste_erstellen_1.png)
 
@@ -479,14 +478,14 @@ Ist die Option "Abonnenten dürfen sich selbst an-/abmelden" aktiviert,
 erscheint die Liste bei den Personen in der Ansicht "Abos" unter
 "Verfügbare Abos".
 
-# Modul Rechnungen
+## Modul Rechnungen
 
 ![image](media/image47.png)
 
 Im Modul Rechnungen sind die Einstellungen für die Rechnungen, die
 einzelnen Rechnungsartikel sowie die erstellten Rechnungen zu finden.
 
-### Rechnungen
+#### Rechnungen
 
 Hier finden Sie die Übersicht über alle erstellten Rechnungen und hier
 können sie diese bearbeiten, löschen oder drucken. Auch Zahlungen
@@ -503,7 +502,7 @@ einer Einzelperson aus erstellt und können nicht im Modul Rechnungen
 erstellt werden (vgl. `Rechnung erstellen`).
 </div>
 
-### Rechnungsartikel
+#### Rechnungsartikel
 
 Häufig verwendete Rechnungspositionen (z.B. Mitgliederbeitrag) können
 hier vordefiniert werden. Diese Artikel können beim Erstellen von
@@ -513,7 +512,7 @@ Rechnungen ausgewählt und individuell angepasst werden.
 
 Modul Rechnungen → Rechnungsartikel
 
-### Einstellungen
+#### Einstellungen
 
 In den Rechnungseinstellungen können allgemeine Angaben gemacht werden,
 wie die Absenderadresse, Absender-E-Mail, Tage bis Fälligkeit,
@@ -542,7 +541,7 @@ zur Verfügung:
 
 ![image](media/image49.png)
 
-### Rechnung erstellen
+#### Rechnung erstellen
 
 ![image](media/image50.jpg)
 
@@ -570,7 +569,7 @@ Die erhaltene E-Mail:
 
 ![image](media/image55.jpg)
 
-### Rechnungen prüfen und verwalten
+#### Rechnungen prüfen und verwalten
 
 Im Menü Rechnungen können die Debitoren verwaltet werden.
 
@@ -585,9 +584,9 @@ eingeganene Zahlung (Betrag und Eingangsdatum):
 
 ![image](media/rechnung_zahlung_erstellen.png)
 
-# Modul Anlässe
+## Modul Anlässe
 
-#### Übersicht
+##### Übersicht
 
 Im Modul Anlässe finden Sie eine Übersicht über Anlässe von Gruppen, bei
 denen Sie Mitglied sind, sowie deren Übergruppen. Andere Anlässe finden
@@ -599,11 +598,13 @@ Hier können Sie sich direkt für diese Anlässe anmelden, sofern die
 Anmeldung bereits freigegeben bzw. der Anmeldeschluss noch nicht
 eingetretten ist.
 
-#### Neuen Anlass erstellen
+##### Neuen Anlass erstellen
 
 ![image](media/anlass_erstellen.png)
 
 ![image](media/anlass_erstellen_dialog.png)
+
+Fussnoten:
 
 1.  Technisch: Es dürfen die Personen Tags erfassen und anschauen,
     welche Schreibrechte auf der Person haben. Die Rollen gemäss

@@ -59,8 +59,10 @@ auszufüllen.
 
 #### Liste importieren
 
+<div class="note">
 Damit der Import klappt, muss zwingend die Korrespondenzsprache jedes Benutzers
 definiert werden. Diese ist entweder `de`, `fr`oder `it` (Gross-/Kleinschreibung beachten).
+</div>
 
 #### Mitglieder bearbeiten
 

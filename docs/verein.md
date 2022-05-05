@@ -264,6 +264,13 @@ trennen, damit der Benutzer eine Auswahl treffen kann (z.B.
 "T-Shirtgrösse: s,m,l,xl")
 </div>
 
+```{admonition} This is my admonition
+Hinweise für das Erstellen von Anlässen
+![iconSchloss](media/image2.png): Vorggegebene Antworten mit Kommas
+trennen, damit der Benutzer eine Auswahl treffen kann (z.B.
+"T-Shirtgrösse: s,m,l,xl")
+```
+
 ![image](media/image32.jpg)
 
 Im Register **Allgemein** muss mindestens der Name des Anlasses stehen.

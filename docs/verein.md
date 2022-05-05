@@ -140,7 +140,7 @@ Kurzarbeitsentschädigungen betreffend die PräsidenInnen der Verein etc.
 Bei der Erfassung der Dirigent:innen ist zu unterscheiden, ob
 diese selber auch Mitglied des entsprechenden Vereins sind oder nicht.
 
-```{warning}
+```{important}
 Für Mitglieder sind die entsprechenden Jahresbeiträge (SBV, SUISA und
 kantonale Musikverbände) zu entrichten und zählen die Aktivjahre der
 Mitglieder für die Berechnung der Veteranenehrungen. Bei
@@ -202,7 +202,7 @@ werden. Dazu ist die Rolle `[Musikgesellschaft XY] → Administrator` oder
 
 ![image](media/image28.png)
 
-<div class="note">
+```{admonition}
 Ist eine Mitgliedschaft im Zeitpunkt der (Nach-)Erfassung bereits
 beendet, d.h. ist die Person nicht mehr Mitglied in jenem Verein, muss
 der Eintrag zwingend hier gemacht werden. Der Button `Rolle hinzufügen`
@@ -210,9 +210,9 @@ in der Ansicht «Info» kann dazu nicht verwendet werden, da dort kein
 End-Datum angegeben werden kann. Der Button `Rolle hinzufügen` in der
 Ansicht «Info» eignet sich nur für die Zuweisung von Rollen, welche die
 Person aktuell ausübt.
-</div>
+```
 
-<div class="note">
+```{admonition}
 Für die Berechnung der **Aktivjahre** zählt nur die Rolle `Mitglieder →
 Mitglied`. Die Rollen `Mitglieder → Ehrenmitglied`, `Mitglieder →
 Adressverwaltung` und `Mitglieder → Passivmitglied` generieren keine
@@ -223,7 +223,7 @@ ist diese Rolle deshalb zusätzlich zu vergeben (und nicht die Rolle
 `Mitglieder → Mitglied` durch die Rolle `Mitglieder → Ehrenmitglied`
 abzulösen), damit das Mitglied weiterhin Akivjahre sammelt und für
 dieses die Mitgliederbeiträge in Rechnung gestellt werden.
-</div>
+```
 
 Sind nun alle Engagements des Mitglieds vollständig erfasst, können
 dessen Aktivjahre, welche für die Berechnung der kantonalen und
@@ -257,7 +257,7 @@ weiterverarbeitet werden (CSV, Excel, vCard, Etiketten,...).
 Ein Administrator und der Präsident können Anlässe für den Verein
 erstellen. Ein Adressverwalter darf dies für "seine" Gruppe.
 
-```{admonition} Hinweise für das Erstellen von Anlässen
+```{admonition} Hinweis für das Erstellen von Anlässen
 Vorggegebene Antworten mit Kommas trennen, damit der Benutzer eine Auswahl treffen kann (z.B. "T-Shirtgrösse: s,m,l,xl")
 ```
 
@@ -434,15 +434,15 @@ Funktionalitäten:
     selber an-/abmelden, oder "geschlossen", d.h. der Listenersteller
     bestimmt verbindlich, wer Abonnent ist.
 
-<div class="attention">
+```{admonition}
 Mit Listen lassen sich einfach **Mailinglisten** erstellen. Die
-Abonenten verwalten ihre E-Mailadressen selber, womit Nachrichten an die
+Abonnenten verwalten ihre E-Mailadressen selber, womit Nachrichten an die
 Liste jederzeit zugestellt werden können – Sie müssen keine
 E-Mailadressen mehr nachführen. Wurde die Liste aufgrund eines Filters
 (z.B. alle Vereinspräsidenten) erstellt, werden Nachrichten an die Liste
 immer die im Zeitpunkt der Nachricht aktuellen Vereinspräsidenten
 erreichen – ein Nachführen von manuellen Listen entfällt.
-</div>
+```
 
 #### Liste erstellen
 

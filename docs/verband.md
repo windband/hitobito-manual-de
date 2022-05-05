@@ -6,9 +6,9 @@ Regionalverbände zu verwalten. Diese sind nur für Personen sichtbar oder
 zugänglich, welche die entsprechende Gruppenzugehörigkeit und Rolle
 besitzen.
 
-# Modul Gruppen
+## Modul Gruppen
 
-## Mitglieder löschen
+### Mitglieder löschen
 
 Administratoren der Kantonalverbände und des SBV können Personen
 löschen. Den entsprechenden Button findet sich bei der entsprechenden
@@ -16,7 +16,7 @@ Person in der Ansicht "Info":
 
 ![image](media/image22.png)
 
-## Kurse
+### Kurse
 
 Kurse können nur von Verbänden (nicht von Vereinen) erstellt werden,
 wobei eine Rolle mit Schreibberechtigung auf der Verbandsstufe nötig ist
@@ -29,25 +29,25 @@ gleiche "Kursart" gewählt wurde und bei allen Kursen die Option
 "Priorisierung" gesetzt wurde.
 </div>
 
-# Modul Rechnungen
+## Modul Rechnungen
 
 \-tbd-
 
-# Modul SUISA
+## Modul SUISA
 
 \-tbd-
 
-# Modul Kurse
+## Modul Kurse
 
 \-tbd-
 
-# Modul Anlässe
+## Modul Anlässe
 
 Siehe `Verein administrieren → Anlässe`
 
-# Modul Hilfe
+## Modul Hilfe
 
-## Hilfetext
+### Hilfetext
 
 Die Texte können in den drei Landessprachen Deutsch, Französisch und
 Italienisch erfasst werden. Um einen Text zu übersetzen, muss zuerst die

@@ -4,12 +4,12 @@ In diesem Kapitel werden Spezialfunktionen erläutert, um Vereine zu
 verwalten. Diese sind nur für Personen sichtbar oder zugänglich, welche
 die entsprechenden Gruppenzugehörigkeit und Rollen besitzen.
 
-<div class="attention">
+```{admonition}
 Der **Kurzname** soll zum Beispiel für "Musikgesellschaft Eintracht
 Windisch" nicht "MGE" sein, weil der Verein so nicht mehr
 identifizierbar ist. Besser wäre "MG Eintracht Windisch". Generell: Im
 Kurznamen wird nur die Bezeichnung "Musikgesellschaft" o.ä. gekürzt.
-</div>
+```
 
 ## Modul Gruppen
 
@@ -59,10 +59,10 @@ auszufüllen.
 
 #### Liste importieren
 
-<div class="note">
+```{admonition}
 Damit der Import klappt, muss zwingend die Korrespondenzsprache jedes Benutzers
 definiert werden. Diese ist entweder `de`, `fr`oder `it` (Gross-/Kleinschreibung beachten).
-</div>
+```
 
 #### Mitglieder bearbeiten
 
@@ -140,13 +140,13 @@ Kurzarbeitsentschädigungen betreffend die PräsidenInnen der Verein etc.
 Bei der Erfassung der Dirigent:innen ist zu unterscheiden, ob
 diese selber auch Mitglied des entsprechenden Vereins sind oder nicht.
 
-<div class="attention">
+```{warning}
 Für Mitglieder sind die entsprechenden Jahresbeiträge (SBV, SUISA und
 kantonale Musikverbände) zu entrichten und zählen die Aktivjahre der
 Mitglieder für die Berechnung der Veteranenehrungen. Bei
 Nicht-Mitgliedern entfallen die Jahresbeiträge und entsprechend auch die
 Aktivjahre.
-</div>
+```
 
 Dirigent:innen ist **in jedem Fall** die Rolle `[Musikgesellschaft XY] →
 DirigentIn` zuzuordnen:
@@ -164,11 +164,11 @@ Neben der Rolle `Mitglieder → Mitglied` (falls der Präsident auch selber
 Aktivmitglied ist), ist ihm ihm auch die Rolle `Vorstand → Präsident`
 zuzuordnen.
 
-<div class="note">
+```{admonition}
 Das Vorgehen ist für das Erfassen von Vizepräsident, Kassier,
 Veteranenchef, Präsident der Musikkommission etc. ist analog zum
 Vereinspräsidenten.
-</div>
+```
 
 #### Veteranen verwalten
 
@@ -257,18 +257,8 @@ weiterverarbeitet werden (CSV, Excel, vCard, Etiketten,...).
 Ein Administrator und der Präsident können Anlässe für den Verein
 erstellen. Ein Adressverwalter darf dies für "seine" Gruppe.
 
-<div class="tip">
-Hinweise für das Erstellen von Anlässen
-![iconSchloss](media/image2.png): Vorggegebene Antworten mit Kommas
-trennen, damit der Benutzer eine Auswahl treffen kann (z.B.
-"T-Shirtgrösse: s,m,l,xl")
-</div>
-
-```{admonition} This is my admonition
-Hinweise für das Erstellen von Anlässen
-![iconSchloss](media/image2.png): Vorggegebene Antworten mit Kommas
-trennen, damit der Benutzer eine Auswahl treffen kann (z.B.
-"T-Shirtgrösse: s,m,l,xl")
+```{admonition} Hinweise für das Erstellen von Anlässen
+Vorggegebene Antworten mit Kommas trennen, damit der Benutzer eine Auswahl treffen kann (z.B. "T-Shirtgrösse: s,m,l,xl")
 ```
 
 ![image](media/image32.jpg)

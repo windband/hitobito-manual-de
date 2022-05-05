@@ -99,7 +99,7 @@ verwendet werden, wobei dies strukturiert (z.B. "Mailing: Newsletter",
 
 Tags von Personen in einer Gruppe können nur von Personen mit der Rolle
 Adressverwaltung oder von Personen mit weitergehenden Berechtigungen
-gelesen und geschrieben werden\[1\] . Personen mit der Rolle Mitglied
+gelesen und geschrieben werden[^1] . Personen mit der Rolle Mitglied
 können weder ihre eigenen noch diejenen Tags der anderen
 Gruppenmitglieder sehen.
 
@@ -493,7 +493,7 @@ einzelnen Rechnungsartikel sowie die erstellten Rechnungen zu finden.
 
 Hier finden Sie die Übersicht über alle erstellten Rechnungen und hier
 können sie diese bearbeiten, löschen oder drucken. Auch Zahlungen
-können hier mittels camt.054 XML-Datei\[2\] eingelesen werden.
+können hier mittels camt.054 XML-Datei[^2] eingelesen werden.
 
 An dieser Stelle können auch **externe** Rechnungen erstellt werden,
 d.h. Rechnungen, welche an externe Empfänger geschickt werden, welche
@@ -610,11 +610,5 @@ eingetretten ist.
 
 Fussnoten:
 
-1.  Technisch: Es dürfen die Personen Tags erfassen und anschauen,
-    welche Schreibrechte auf der Person haben. Die Rollen gemäss
-    <https://github.com/hitobito/hitobito_sbv/> mit \*\_full
-
-2.  Eine camt.054 XML-Datei ist die Sammelbuchungs-auflösung und
-    Belastungs- und Gutschriftsanzeige. Diese enthält eine Reihe
-    verschiedene Buchungspositionen welche automatisiert auf Basis der
-    ESR-Nummer bestehenden Rechnungen zugeordnet werden.
+[^1]: Technisch: Es dürfen die Personen Tags erfassen und anschauen, welche Schreibrechte auf der Person haben. Die Rollen gemäss <https://github.com/hitobito/hitobito_sbv/> mit \*\_full
+[^2]: Eine camt.054 XML-Datei ist die Sammelbuchungs-auflösung und Belastungs- und Gutschriftsanzeige. Diese enthält eine Reihe verschiedene Buchungspositionen welche automatisiert auf Basis der ESR-Nummer bestehenden Rechnungen zugeordnet werden.

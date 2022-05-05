@@ -368,8 +368,8 @@ Nicht aufgeführte Werke können über das Suchfeld gesucht werden:
 
 ![image](media/image43.png)
 
-Solange die Meldeliste noch nicht eingereicht ist (vgl. `Meldeliste
-einreichen <T-meldeliste-einreichen>`) können Sie beliebig oft neue
+Solange die Meldeliste noch nicht eingereicht ist (vgl. [Meldeliste
+einreichen](Meldeliste_einreichen)) können Sie beliebig oft neue
 Aufführungen erfassen und bearbeiten.
 
 ##### Neues Werk erstellen
@@ -385,6 +385,7 @@ eingetragen werden. Die Angabe von Arrangeur und Verlag sind optional:
 
 ![image](media/image45.png)
 
+(Meldeliste_einreichen)=
 ##### Meldeliste einreichen
 
 Sind alle Werke erfasst, muss die Meldeliste eingereicht werden. Dazu
@@ -499,12 +500,12 @@ An dieser Stelle können auch **externe** Rechnungen erstellt werden,
 d.h. Rechnungen, welche an externe Empfänger geschickt werden, welche
 nicht in hitobito erfasst sind.
 
-<div class="tip">
+```{tip}
 Rechnungen an Empfänger innerhalb von hitobito werden von
 Personenlisten, von einer Teilnehmerliste (Kurse oder Anlässe) oder von
 einer Einzelperson aus erstellt und können nicht im Modul Rechnungen
-erstellt werden (vgl. `Rechnung erstellen`).
-</div>
+erstellt werden (vgl. [Rechnung erstellen](Rechnung_erstellen)).
+```
 
 #### Rechnungsartikel
 
@@ -545,6 +546,7 @@ zur Verfügung:
 
 ![image](media/image49.png)
 
+(Rechnung_erstellen)=
 #### Rechnung erstellen
 
 ![image](media/image50.jpg)

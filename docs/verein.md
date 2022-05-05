@@ -134,9 +134,10 @@ Dirigentenkonferenzen gehen nur an die Dirigenten; Informationen im
 Zusammenhang z.B. mit COVID-19 wie Hinweise zu
 Kurzarbeitsentschädigungen betreffend die PräsidenInnen der Verein etc.
 
+(Dirigent_erfassen)=
 ##### Dirigent erfassen
 
-Bei der Erfassung der (Vize-)DirigentInnen ist zu unterscheiden, ob
+Bei der Erfassung der Dirigent:innen ist zu unterscheiden, ob
 diese selber auch Mitglied des entsprechenden Vereins sind oder nicht.
 
 <div class="attention">
@@ -147,14 +148,13 @@ Nicht-Mitgliedern entfallen die Jahresbeiträge und entsprechend auch die
 Aktivjahre.
 </div>
 
-DirigentInnen ist **in jedem Fall** die Rolle `[Musikgesellschaft XY] →
+Dirigent:innen ist **in jedem Fall** die Rolle `[Musikgesellschaft XY] →
 DirigentIn` zuzuordnen:
 
 ![image](media/image25.png)
 
-Ist ein(e) DirigentIn auch Mitglied im entsprechenden Verein, ist
-ihm/ihr **zusätzlich** die Rolle Mitglied (z.B. aus der Gruppe
-Mitglieder) zuzuweisen:
+Ist ein(e) Dirigent:in auch Mitglied im entsprechenden Verein, ist
+ihm/ihr **zusätzlich** die Rolle `Mitglieder → Mitglied` zuzuweisen:
 
 ![image](media/image26.png)
 

@@ -322,14 +322,14 @@ und nach Aufführung geordnet:
 
 ![image](media/image38.png)
 
-<div class="note">
+```{admonition}
 Die Rolle Administrator wird in hitobito nicht gleichgesetzt mit dem
 Zugriff auf alle Funktionen. Auch Administratoren sehen gewissen
 Funktionen in hitobito nicht, wie zum Beispiel den Menüpunkt «SUISA».
 Administratoren, welche ihre SUISA-Verantwortliche unterstützen möchten,
 müssen sich deshalb auch selber die Rolle «Verantwortlicher SUISA»
 erteilen.
-</div>
+```
 
 ##### Status Meldeliste
 

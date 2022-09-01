@@ -43,14 +43,14 @@ Chaque membre du club peut modifier ses propres données dans hitobito avec la p
 
 ![Anmeldung](media/image3.png)
 
-Unter https://www.windband.ch befindet sich (rechts oben in der Navigationsleiste) das Login zu hitobito.
+La connexion à hitobito se trouve sur https://www.windband.ch (en haut à droite dans la barre de navigation).
 
-Wenn Sie sich zum ersten Mal anmelden oder wenn Sie das Passwort vergessen haben, klicken Sie auf den Link `Passwort vergessen?` unterhalb des Anmelden-Buttons.
+Si vous vous connectez pour la première fois ou si vous avez oublié votre mot de passe, cliquez sur le lien `Passwort vergessen?` . sous le bouton de connexion.
 
 ![Passwort vergessen](media/image4.png)
 
-Im nächsten Schritt geben Sie Ihre E-Mailadresse ein und klicken Sie auf den Button `Passwort zurücksetzen`.
+À l'étape suivante, entrez votre adresse e-mail et cliquez sur le bouton Réinitialiser le `Passwort zurücksetzen` de passe.
 
-Als Benutzername bzw. Haupt-E-Mailadresse wird die **persönliche** E-Mailadresse genutzt, mit der jedes Mitglied in der Datenbank geführt wird.
+L'adresse e-mail **personnelle** avec laquelle chaque membre est répertorié dans la base de données est utilisée comme nom d'utilisateur ou adresse e-mail principale.
 
-**Wichtig:** Die Mitglieder sollen mit ihren persönlichen E-Mailadressen in hitobito eingetragen werden. Werden sog. Funktionsadressen (z. B. praesident@xxx.ch) verwendet, müssen diese Adressen später immer wieder geändert werden, wenn das Mitglied in seinem Verein die Funktion wechselt, weil sein Nachfolger die gleiche E-Mailadresse nicht eintragen kann, solange diese noch vom Vorgänger verwendet wird.
+**Important :** Les membres doivent être entrés dans hitobito avec leurs adresses e-mail personnelles. Si des adresses dites de fonction (par exemple praesident@xxx.ch) sont utilisées, ces adresses doivent être modifiées encore et encore ultérieurement si le membre change de fonction dans son association, car son successeur ne peut pas entrer la même adresse e-mail tant qu'elle est toujours utilisé par le prédécesseur.

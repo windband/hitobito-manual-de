@@ -31,4 +31,26 @@ Les données de hitobito ne peuvent être utilisées que dans le cadre des activ
 
 Les serveurs hitobito sont situés en Suisse et sont certifiés ISO et FINMA.
 
-**Remarque** Certaines des fonctions décrites dans ce manuel ne sont accessibles qu'aux personnes disposant d'autorisations spéciales. Ils doivent être marqués d'un ![icône de verrouillage](media/image2.png)-icône fournie.
+
+<div class="attention">Certaines des fonctionnalités décrites dans ce guide ne sont disponibles que pour les personnes disposant d'autorisations spéciales. Ils sont marqués d'un symbole de cadenas.</div>
+
+
+## Démarrer avec hitobito
+
+Chaque membre du club peut modifier ses propres données dans hitobito avec la permission `Mitglieder → Mitglied` . Le membre a la possibilité de faire des recherches simples dans son propre club ou association et, par exemple, d'afficher, d'exporter et d'imprimer à tout moment une liste actuelle des membres actifs de son propre club. Les membres n'ont pas accès aux données d'adhésion des autres clubs.
+
+## S'inscrire
+
+![Anmeldung](media/image3.png)
+
+Unter https://www.windband.ch befindet sich (rechts oben in der Navigationsleiste) das Login zu hitobito.
+
+Wenn Sie sich zum ersten Mal anmelden oder wenn Sie das Passwort vergessen haben, klicken Sie auf den Link `Passwort vergessen?` unterhalb des Anmelden-Buttons.
+
+![Passwort vergessen](media/image4.png)
+
+Im nächsten Schritt geben Sie Ihre E-Mailadresse ein und klicken Sie auf den Button `Passwort zurücksetzen`.
+
+Als Benutzername bzw. Haupt-E-Mailadresse wird die **persönliche** E-Mailadresse genutzt, mit der jedes Mitglied in der Datenbank geführt wird.
+
+**Wichtig:** Die Mitglieder sollen mit ihren persönlichen E-Mailadressen in hitobito eingetragen werden. Werden sog. Funktionsadressen (z. B. praesident@xxx.ch) verwendet, müssen diese Adressen später immer wieder geändert werden, wenn das Mitglied in seinem Verein die Funktion wechselt, weil sein Nachfolger die gleiche E-Mailadresse nicht eintragen kann, solange diese noch vom Vorgänger verwendet wird.

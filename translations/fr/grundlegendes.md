@@ -31,4 +31,26 @@ Les données de hitobito ne peuvent être utilisées que dans le cadre des activ
 
 Les serveurs hitobito sont situés en Suisse et sont certifiés ISO et FINMA.
 
-**Remarque** Certaines des fonctions décrites dans ce manuel ne sont accessibles qu'aux personnes disposant d'autorisations spéciales. Ils doivent être marqués d'un ![icône de verrouillage](media/image2.png)-icône fournie.
+
+<div class="attention">Certaines des fonctionnalités décrites dans ce guide ne sont disponibles que pour les personnes disposant d'autorisations spéciales. Ils sont marqués d'un symbole de cadenas.</div>
+
+
+## Démarrer avec hitobito
+
+Chaque membre du club peut modifier ses propres données dans hitobito avec la permission `Mitglieder → Mitglied` . Le membre a la possibilité de faire des recherches simples dans son propre club ou association et, par exemple, d'afficher, d'exporter et d'imprimer à tout moment une liste actuelle des membres actifs de son propre club. Les membres n'ont pas accès aux données d'adhésion des autres clubs.
+
+## S'inscrire
+
+![Anmeldung](media/image3.png)
+
+La connexion à hitobito se trouve sur https://www.windband.ch (en haut à droite dans la barre de navigation).
+
+Si vous vous connectez pour la première fois ou si vous avez oublié votre mot de passe, cliquez sur le lien `Passwort vergessen?` . sous le bouton de connexion.
+
+![Passwort vergessen](media/image4.png)
+
+À l'étape suivante, entrez votre adresse e-mail et cliquez sur le bouton Réinitialiser le `Passwort zurücksetzen` de passe.
+
+L'adresse e-mail **personnelle** avec laquelle chaque membre est répertorié dans la base de données est utilisée comme nom d'utilisateur ou adresse e-mail principale.
+
+**Important :** Les membres doivent être entrés dans hitobito avec leurs adresses e-mail personnelles. Si des adresses dites de fonction (par exemple praesident@xxx.ch) sont utilisées, ces adresses doivent être modifiées encore et encore ultérieurement si le membre change de fonction dans son association, car son successeur ne peut pas entrer la même adresse e-mail tant qu'elle est toujours utilisé par le prédécesseur.

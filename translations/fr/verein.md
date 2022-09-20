@@ -391,7 +391,7 @@ Dans le module Evénements, vous trouverez un aperçu des événements organisé
 
 Vous pouvez ici vous inscrire directement à ces événements, pour autant que l’inscription soit déjà validée ou que la date limite d’inscription ne soit pas encore passée.
 
-##### Neuen Anlass erstellen
+##### Création d’un événement
 
 ![image](media/anlass_erstellen.png)
 
@@ -400,3 +400,5 @@ Vous pouvez ici vous inscrire directement à ces événements, pour autant que l
 Notes de bas de page:
 
 [^1]: Technique: les personnes autorisées à saisir et à consulter les tags sont celles qui ont des droits d’écriture sur la personne. Les rôles selon [https://github.com/hitobito/hitobito_sbv/](https://github.com/hitobito/hitobito_sbv/) mit *_full [^2]: avec *_full [^2]: un fichier XML camt.054 est la résolution d’écritures collectives et l’avis de débit et de crédit. Celle-ci contient une série de positions comptables différentes qui sont attribuées automatiquement aux factures existantes sur la base du numéro du BVR.
+
+

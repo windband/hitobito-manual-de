@@ -1,6 +1,6 @@
 # Utilisateur domestique
 
-## Vue d’ensemble
+## Vue d'ensemble
 
 ![Abbildung Startseite Benutzer → Info](media/image5.png)
 

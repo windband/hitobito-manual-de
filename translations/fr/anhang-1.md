@@ -6,7 +6,7 @@ Vue d'ensemble de tous les groupes et de leurs rôles, ainsi que des autorisatio
 
 ### Groupe &lt;Société&gt;
 
-#### Administrator
+#### Administrateur
 
 - Lecture et édition à ce niveau et à tous les niveaux inférieurs. Création d'événements et d'abonnements à ce niveau.
 - Autorisation d'inscrire la société à des fêtes des musiques et de traiter l'inscription.
@@ -16,14 +16,14 @@ Vue d'ensemble de tous les groupes et de leurs rôles, ainsi que des autorisatio
 
 - *aucun*
 
-#### Verantwortlicher SUISA
+#### Responsable SUISA
 
 - Autorisation de lecture sur le groupe.
 - Autorisation de gérer les déclarations à SUISA.
 
 ### Comité
 
-#### Präsident
+#### Président
 
 - Lecture et édition à ce niveau. Création d'événements et d'abonnements à ce niveau.
 - Lecture et édition à ce niveau et à tous les niveaux inférieurs.
@@ -47,19 +47,19 @@ Vue d'ensemble de tous les groupes et de leurs rôles, ainsi que des autorisatio
 - Lecture à ce niveau et à tous les niveaux inférieurs.
 - Lecture des coordonnées de toutes autres personnes disposant de l'autorisation s'agissant des coordonnées.
 
-#### Mitglied
+#### Membre
 
 - Lecture à ce niveau et à tous les niveaux inférieurs.
-- Lesen der Kontaktdaten aller anderen Personen mit Kontaktdatenberechtigung.
+- Lisez les informations de contact de toutes les autres personnes disposant de l'autorisation d'informations de contact.
 
 ### Groupe Commission de musique
 
-#### Präsident
+#### Président
 
 - Lecture à ce niveau.
 - Lecture et édition sur le groupe et tous les groupes inférieurs. Y compris création d'événements et d'abonnements.
 
-#### Mitglied
+#### Membre
 
 - Lecture à ce niveau.
 
@@ -69,7 +69,7 @@ Vue d'ensemble de tous les groupes et de leurs rôles, ainsi que des autorisatio
 
 - Lecture et édition sur le groupe et tous les groupes inférieurs. Y compris création d'événements et d'abonnements.
 
-#### Mitglied
+#### Membre
 
 - Lecture à ce niveau.
 
@@ -87,13 +87,13 @@ Le membre d'honneur du groupe Membres ne peut voir que les données publiques (g
 
 - Lecture à ce niveau.
 
-#### Mitglied
+#### Membre
 
 - Lecture sur ce groupe et sur tous les groupes inférieurs.
 
 ### Groupe Contacts
 
-#### Kontakt
+#### Contact
 
 Le rôle Contact ne peut, dans le groupe, voir que les données publiques telles que groupes, événements et listes, mais aucune autre personne.
 
@@ -101,20 +101,20 @@ Le rôle Contact ne peut, dans le groupe, voir que les données publiques telles
 
 - Lecture et édition sur le groupe et tous les groupes inférieurs (sans niveaux). Y compris création d'événements et d'abonnements.
 
-## Berechtigungen Regionalverband
+## Autorisations Association régionale
 
-*tbd*
+*à déterminer*
 
 ## Autorisations Association membre/Association cantonale
 
 ### Groupe &lt;Association membre&gt;
 
-#### Administrator
+#### Administrateur
 
 - Lecture et édition à ce niveau et à tous les niveaux inférieurs. Création d'événements et d'abonnements à ce niveau.
 - Autorisation de gérer le salaire AA.
 
-#### Verantwortlicher SUISA
+#### Responsable SUISA
 
 - Autorisation de lecture sur le groupe.
 - Autorisation de gérer les déclarations à SUISA.
@@ -138,7 +138,7 @@ Le rôle Contact ne peut, dans le groupe, voir que les données publiques telles
 
 ### Groupe Comité
 
-#### Präsident
+#### Président
 
 - Lecture et édition à ce niveau. Création d'événements et d'abonnements à ce niveau.
 - Lecture et édition à ce niveau et à tous les niveaux inférieurs.
@@ -156,18 +156,18 @@ Le rôle Contact ne peut, dans le groupe, voir que les données publiques telles
 
 - Lecture et édition à ce niveau et à tous les niveaux inférieurs.
 
-#### Mitglied
+#### Membre
 
 - Lecture et édition à ce niveau et à tous les niveaux inférieurs.
 
 ### Groupe Commission de musique
 
-#### Präsident
+#### Président
 
 - Lecture à ce niveau.
 - Lecture et édition sur le groupe et tous les groupes inférieurs. Y compris création d'événements et d'abonnements.
 
-#### Mitglied
+#### Membre
 
 - Lecture à ce niveau.
 
@@ -177,13 +177,13 @@ Le rôle Contact ne peut, dans le groupe, voir que les données publiques telles
 
 - Lecture à ce niveau.
 
-#### Mitglied
+#### Membre
 
 - Lecture sur ce groupe et sur tous les groupes inférieurs.
 
 ### Groupe Contacts
 
-#### Kontakt
+#### Contact
 
 Le rôle Contact ne peut, dans le groupe, voir que les données publiques telles que groupes, événements et listes, mais aucune autre personne.
 
@@ -193,9 +193,9 @@ Le rôle Contact ne peut, dans le groupe, voir que les données publiques telles
 
 ### Groupe Vétérans
 
-#### Kantonaler Veteran
+#### Vétéran cantonal
 
-*tbd*
+*à déterminer*
 
 Vétéran d’honneur cantonal ^^^^^^^^^^^^^^^^^^^^^^^^ *tbd*
 

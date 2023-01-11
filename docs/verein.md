@@ -201,11 +201,10 @@ werden. Dazu ist die Rolle `[Musikgesellschaft XY] → Administrator` oder
 
 ![image](media/image28.png)
 
+Es können auch (heute) nicht mehr existierende, d.h. inzwischen aufgelöste, Vereine erfasst werden.
+
 ```{tip}
-Soll eine Rolle eines fremden Vereins erfasst werden, muss
-der Eintrag zwingend in der Ansicht «Verlauf» gemacht werden. Der Button `Rolle hinzufügen`
-in der Ansicht «Info» kann dazu nicht verwendet werden, da dort kein
-fremder Verein ausgewählt werden kann.
+Soll eine Rolle eines fremden Vereins erfasst werden, muss der Eintrag zwingend in der Ansicht «Verlauf» gemacht werden. Der Button `Rolle hinzufügen` in der Ansicht «Info» kann dazu nicht verwendet werden, da dort kein fremder Verein ausgewählt werden kann.
 ```
 
 ```{tip}

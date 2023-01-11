@@ -83,7 +83,7 @@ dann innerhalb der gewählten Gruppe dem Mitglied eine zusätzliche Rolle
 hinzufügen und angeben, seit wann die Rolle gültig ist.
 
 Wie Sie einem Mitglied eine neue **nicht mehr aktive** Rolle in einem
-Verein/Verband hinzuzufügen siehe unter `Veteranen verwalten <https://hitobito-manual-sbv-de.readthedocs.io/de/latest/verein.html#veteranen-verwalten>`_
+Verein/Verband hinzuzufügen siehe unter [Veteranen verwalten](Veteranen_verwalten)
 
 Um aktive Rollen zu entfernen, wählen Sie auf der Ansicht "Info" im
 Abschnitt "Aktive Rollen" das Symbol 'Abfalleimer'. Sie beenden damit
@@ -169,6 +169,7 @@ Veteranenchef, Präsident der Musikkommission etc. ist analog zum
 Vereinspräsidenten.
 ```
 
+(Veteranen_verwalten)=
 #### Veteranen verwalten
 
 ##### Überprüfen der Einträge gemäss Musikerpass
@@ -252,7 +253,7 @@ weiterverarbeitet werden (CSV, Excel, vCard, Etiketten,...).
 Ein Administrator und der Präsident können Anlässe für den Verein
 erstellen. Ein Adressverwalter darf dies für "seine" Gruppe.
 
-```
+```{tip}
 **Hinweis für das Erstellen von Anlässen**
 Vorggegebene Antworten mit Kommas trennen, damit der Benutzer eine Auswahl treffen kann (z.B. "T-Shirtgrösse: s,m,l,xl")
 ```
@@ -321,8 +322,8 @@ und nach Aufführung geordnet:
 ```{tip}
 Die Rolle Administrator wird in hitobito nicht gleichgesetzt mit dem
 Zugriff auf alle Funktionen. Auch Administratoren sehen gewissen
-Funktionen in hitobito nicht, wie zum Beispiel den Menüpunkt «SUISA».
-Administratoren, welche ihre SUISA-Verantwortliche unterstützen möchten,
+Funktionen in hitobito nicht, wie zum Beispiel den Menüpunkt «SUISA» oder «Rechnungen».
+Administratoren, welche z.B. ihre SUISA-Verantwortliche unterstützen möchten,
 müssen sich deshalb auch selber die Rolle «Verantwortlicher SUISA»
 erteilen.
 ```
@@ -500,7 +501,7 @@ nicht in hitobito erfasst sind.
 Rechnungen an Empfänger innerhalb von hitobito werden von
 Personenlisten, von einer Teilnehmerliste (Kurse oder Anlässe) oder von
 einer Einzelperson aus erstellt und können nicht im Modul Rechnungen
-erstellt werden (vgl. [Rechnung erstellen](#Rechnung-erstellen)).
+erstellt werden (vgl. [Rechnung erstellen](Rechnung_erstellen)).
 ```
 
 #### Rechnungsartikel
@@ -542,6 +543,7 @@ zur Verfügung:
 
 ![image](media/image49.png)
 
+(Rechnung_erstellen)=
 #### Rechnung erstellen
 
 ![image](media/image50.jpg)

@@ -252,7 +252,8 @@ weiterverarbeitet werden (CSV, Excel, vCard, Etiketten,...).
 Ein Administrator und der Präsident können Anlässe für den Verein
 erstellen. Ein Adressverwalter darf dies für "seine" Gruppe.
 
-```{admonition} Hinweis für das Erstellen von Anlässen
+```
+**Hinweis für das Erstellen von Anlässen**
 Vorggegebene Antworten mit Kommas trennen, damit der Benutzer eine Auswahl treffen kann (z.B. "T-Shirtgrösse: s,m,l,xl")
 ```
 
@@ -317,7 +318,7 @@ und nach Aufführung geordnet:
 
 ![image](media/image38.png)
 
-```{admonition}
+```{tip}
 Die Rolle Administrator wird in hitobito nicht gleichgesetzt mit dem
 Zugriff auf alle Funktionen. Auch Administratoren sehen gewissen
 Funktionen in hitobito nicht, wie zum Beispiel den Menüpunkt «SUISA».
@@ -430,7 +431,7 @@ Funktionalitäten:
     selber an-/abmelden, oder "geschlossen", d.h. der Listenersteller
     bestimmt verbindlich, wer Abonnent ist.
 
-```{admonition}
+```{tip}
 Mit Listen lassen sich einfach **Mailinglisten** erstellen. Die
 Abonnenten verwalten ihre E-Mailadressen selber, womit Nachrichten an die
 Liste jederzeit zugestellt werden können – Sie müssen keine
@@ -499,7 +500,7 @@ nicht in hitobito erfasst sind.
 Rechnungen an Empfänger innerhalb von hitobito werden von
 Personenlisten, von einer Teilnehmerliste (Kurse oder Anlässe) oder von
 einer Einzelperson aus erstellt und können nicht im Modul Rechnungen
-erstellt werden (vgl. [Rechnung erstellen](Rechnung-erstellen)).
+erstellt werden (vgl. [Rechnung erstellen](#Rechnung-erstellen)).
 ```
 
 #### Rechnungsartikel

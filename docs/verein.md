@@ -4,7 +4,7 @@ In diesem Kapitel werden Spezialfunktionen erläutert, um Vereine zu
 verwalten. Diese sind nur für Personen sichtbar oder zugänglich, welche
 die entsprechenden Gruppenzugehörigkeit und Rollen besitzen.
 
-```{admonition}
+```{tip}
 Der **Kurzname** soll zum Beispiel für "Musikgesellschaft Eintracht
 Windisch" nicht "MGE" sein, weil der Verein so nicht mehr
 identifizierbar ist. Besser wäre "MG Eintracht Windisch". Generell: Im
@@ -59,7 +59,7 @@ auszufüllen.
 
 #### Liste importieren
 
-```{admonition}
+```{tip}
 Damit der Import klappt, muss zwingend die Korrespondenzsprache jedes Benutzers
 definiert werden. Diese ist entweder `de`, `fr` oder `it` (Gross-/Kleinschreibung beachten).
 ```
@@ -163,7 +163,7 @@ Neben der Rolle `Mitglieder → Mitglied` (falls der Präsident auch selber
 Aktivmitglied ist), ist ihm ihm auch die Rolle `Vorstand → Präsident`
 zuzuordnen.
 
-```{admonition}
+```{tip}
 Das Vorgehen ist für das Erfassen von Vizepräsident, Kassier,
 Veteranenchef, Präsident der Musikkommission etc. ist analog zum
 Vereinspräsidenten.
@@ -201,14 +201,14 @@ werden. Dazu ist die Rolle `[Musikgesellschaft XY] → Administrator` oder
 
 ![image](media/image28.png)
 
-```{admonition}
+```{tip}
 Soll eine Rolle eines fremden Vereins erfasst werden, muss
 der Eintrag zwingend in der Ansicht «Verlauf» gemacht werden. Der Button `Rolle hinzufügen`
 in der Ansicht «Info» kann dazu nicht verwendet werden, da dort kein
 fremder Verein ausgewählt werden kann.
 ```
 
-```{admonition}
+```{tip}
 Für die Berechnung der **Aktivjahre** zählt nur die Rolle `Mitglieder →
 Mitglied`. Die Rollen `Mitglieder → Ehrenmitglied`, `Mitglieder →
 Adressverwaltung` und `Mitglieder → Passivmitglied` generieren keine
@@ -255,6 +255,7 @@ erstellen. Ein Adressverwalter darf dies für "seine" Gruppe.
 
 ```{tip}
 **Hinweis für das Erstellen von Anlässen**
+
 Vorggegebene Antworten mit Kommas trennen, damit der Benutzer eine Auswahl treffen kann (z.B. "T-Shirtgrösse: s,m,l,xl")
 ```
 

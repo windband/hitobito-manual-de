@@ -499,7 +499,7 @@ nicht in hitobito erfasst sind.
 Rechnungen an Empfänger innerhalb von hitobito werden von
 Personenlisten, von einer Teilnehmerliste (Kurse oder Anlässe) oder von
 einer Einzelperson aus erstellt und können nicht im Modul Rechnungen
-erstellt werden (vgl. [Rechnung erstellen](Rechnung_erstellen)).
+erstellt werden (vgl. [Rechnung erstellen](#Rechnung_erstellen)).
 ```
 
 #### Rechnungsartikel
@@ -541,8 +541,7 @@ zur Verfügung:
 
 ![image](media/image49.png)
 
-(Rechnung_erstellen)=
-#### Rechnung erstellen
+#### Rechnung erstellen {#Rechnung_erstellen}
 
 ![image](media/image50.jpg)
 

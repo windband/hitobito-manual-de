@@ -61,7 +61,7 @@ auszufüllen.
 
 ```{admonition}
 Damit der Import klappt, muss zwingend die Korrespondenzsprache jedes Benutzers
-definiert werden. Diese ist entweder `de`, `fr`oder `it` (Gross-/Kleinschreibung beachten).
+definiert werden. Diese ist entweder `de`, `fr` oder `it` (Gross-/Kleinschreibung beachten).
 ```
 
 #### Mitglieder bearbeiten
@@ -83,8 +83,7 @@ dann innerhalb der gewählten Gruppe dem Mitglied eine zusätzliche Rolle
 hinzufügen und angeben, seit wann die Rolle gültig ist.
 
 Wie Sie einem Mitglied eine neue **nicht mehr aktive** Rolle in einem
-Verein/Verband hinzuzufügen siehe `Veteranen verwalten
-<T-veteranen-verwalten>`.
+Verein/Verband hinzuzufügen siehe unter `Veteranen verwalten <https://hitobito-manual-sbv-de.readthedocs.io/de/latest/verein.html#veteranen-verwalten>`_
 
 Um aktive Rollen zu entfernen, wählen Sie auf der Ansicht "Info" im
 Abschnitt "Aktive Rollen" das Symbol 'Abfalleimer'. Sie beenden damit
@@ -100,7 +99,7 @@ verwendet werden, wobei dies strukturiert (z.B. "Mailing: Newsletter",
 Tags von Personen in einer Gruppe können nur von Personen mit der Rolle
 Adressverwaltung oder von Personen mit weitergehenden Berechtigungen
 gelesen und geschrieben werden[^1] . Personen mit der Rolle Mitglied
-können weder ihre eigenen noch diejenen Tags der anderen
+können weder ihre eigenen noch diejenigen Tags der anderen
 Gruppenmitglieder sehen.
 
 Damit sind Tags eine Alternative dazu, thematisch zusammengehörende
@@ -185,8 +184,7 @@ werden muss.
 
 Auf der Personen-Übersicht sehen Sie alle zur Person gehörenden Daten,
 unter anderem im Abschnitt «Weitere Angaben» auch die Anzahl «Aktivjahre
-aktuell» (im nachfolgenden Beispiel: 21 Jahre): \[Screenshot
-anonymisieren\]
+aktuell» (im nachfolgenden Beispiel: 21 Jahre):
 
 ![image](media/image27.png)
 
@@ -203,13 +201,10 @@ werden. Dazu ist die Rolle `[Musikgesellschaft XY] → Administrator` oder
 ![image](media/image28.png)
 
 ```{admonition}
-Ist eine Mitgliedschaft im Zeitpunkt der (Nach-)Erfassung bereits
-beendet, d.h. ist die Person nicht mehr Mitglied in jenem Verein, muss
-der Eintrag zwingend hier gemacht werden. Der Button `Rolle hinzufügen`
+Soll eine Rolle eines fremden Vereins erfasst werden, muss
+der Eintrag zwingend in der Ansicht «Verlauf» gemacht werden. Der Button `Rolle hinzufügen`
 in der Ansicht «Info» kann dazu nicht verwendet werden, da dort kein
-End-Datum angegeben werden kann. Der Button `Rolle hinzufügen` in der
-Ansicht «Info» eignet sich nur für die Zuweisung von Rollen, welche die
-Person aktuell ausübt.
+fremder Verein ausgewählt werden kann.
 ```
 
 ```{admonition}
@@ -218,8 +213,8 @@ Mitglied`. Die Rollen `Mitglieder → Ehrenmitglied`, `Mitglieder →
 Adressverwaltung` und `Mitglieder → Passivmitglied` generieren keine
 Aktivjahre und sind entsprechend auch nicht finanzrelevant, d.h. für
 Personen mit (nur) diesen Rollen, müssen keine Mitgliederbeiträge
-entrichtet werden. Wird ein aktives Mitglied zum Ehrenmitglied ernannt,
-ist diese Rolle deshalb zusätzlich zu vergeben (und nicht die Rolle
+entrichtet werden. Wird ein aktives Mitglied zum (aktiven) Ehrenmitglied ernannt,
+ist diese Rolle deshalb **zusätzlich** zu vergeben (und nicht die Rolle
 `Mitglieder → Mitglied` durch die Rolle `Mitglieder → Ehrenmitglied`
 abzulösen), damit das Mitglied weiterhin Akivjahre sammelt und für
 dieses die Mitgliederbeiträge in Rechnung gestellt werden.
@@ -231,7 +226,7 @@ eidgenössischen Ehrungen massgebend sind, auf der Personen-Übersicht
 abgelesen werden. Diese Angabe erscheint übrigens auch auf den
 Mitgliederlisten des Vereins (online sowie in den exportierten Listen).
 
-##### Veteranenliste erstellen 
+##### Veteranenliste erstellen
 
 Will ein Verein wissen, welche seiner Mitglieder im aktuellen Jahr zum kantonalen Veteranen
 ernannt werden können (25 Aktivjahre), kann seine Mitgliederliste

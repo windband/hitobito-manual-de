@@ -19,7 +19,7 @@ I diversi ruoli sono ripartiti in diversi gruppi. Per una società esistono, tra
 - "membri", con ruoli "gestione indirizzi", "membro", "membro passivo" e "membro onorario"
 - “commissione di musica”, con i ruoli "presidente" e "membro"
 
-**Beispiel** Eine Person mit der Berechtigung `Vorstand → Präsident` kann alle Angaben seines Vereins lesen und bearbeiten und Anlässe erstellen. Der Vereinskassier mit der Berechtigung `Vorstand → Kassier` kann ebenfalls alle Angaben seines Vereins lesen und bearbeiten. Er kann aber keine Anlässe erfassen. Dafür kann er Rechnungen erstellen und verwalten.
+**Esempio** Una persona con l’autorizzazione <code>comitato → presidente</code> può leggere e modificare tutti i dati della sua società e inserire degli eventi. Anche il cassiere della società, con l’autorizzazione `comitato → cassiere`, può leggere ed elaborare tutti i dati della sua società. Non può però inserire degli eventi. Può invece creare e gestire fatture.
 
 Le persone con l’autorizzazione `membri → membro` possono vedere ed elaborare solo i propri dati.
 
@@ -49,7 +49,7 @@ Se accedete per la prima volta o se avete dimenticato la vostra password, clicca
 
 ![Passwort vergessen](media/image4.png)
 
-Im nächsten Schritt geben Sie Ihre E-Mailadresse ein und klicken Sie auf den Button `Passwort zurücksetzen`.
+Nella fase successiva, inserite il vostro indirizzo e-mail e cliccate sul pulsante `reimposta password`.
 
 Il nome utente, rispettivamente l’indirizzo e-mail principale corrisponde all’indirizzo e-mail personale con il quale ogni membro viene inserito nella banca dati.
 

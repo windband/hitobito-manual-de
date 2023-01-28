@@ -14,7 +14,7 @@ A seconda del compito e della funzione nella federazione, rispettivamente nella 
 
 I diversi ruoli sono ripartiti in diversi gruppi. Per una società esistono, tra gli altri, i gruppi:
 
-- <verein> mit den Rollen Administrator, Verantwortlicher SUISA, Dirigent</verein>
+- <verein>con i ruoli di amministratore, responsabile SUISA, direttore d'orchestra</verein>
 - "comitato", con i ruoli "presidente", "cassiere" e "membro"
 - "membri", con ruoli "gestione indirizzi", "membro", "membro passivo" e "membro onorario"
 - “commissione di musica”, con i ruoli "presidente" e "membro"
